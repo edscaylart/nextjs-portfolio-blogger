@@ -8,9 +8,21 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "@material-ui/core": "^4.11.0",
+    "@material-ui/icons": "^4.9.1",
+    "@mdx-js/loader": "^1.6.6",
+    "@next/mdx": "^9.4.4",
     "next": "latest",
     "react": "^16.12.0",
-    "react-dom": "^16.12.0"
+    "react-dom": "^16.12.0",
+    "remark": "^12.0.0",
+    "remark-breaks": "^1.0.5",
+    "remark-frontmatter": "^2.0.0",
+    "remark-highlight.js": "^6.0.0",
+    "remark-html": "^11.0.2",
+    "remark-html-katex": "^2.0.1",
+    "remark-math": "^2.0.1",
+    "remark-toc": "^7.0.0"
   },
   "devDependencies": {
     "@types/node": "^12.12.21",
